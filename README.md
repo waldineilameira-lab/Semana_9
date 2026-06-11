@@ -1,3 +1,8 @@
+## Veja o tutorial do github 
+ - Arquivo em pdf
+
+
+
 # Semana 9: SQL básico
 
 Conteúdo
